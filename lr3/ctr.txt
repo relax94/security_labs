@@ -1,1 +1,1 @@
-CTR mode lets you build a stream cipher from a block cipher.†‹x¼
+CTR mode lets you build a stream cipher from a block cipher.ï¿½ï¿½xï¿½
